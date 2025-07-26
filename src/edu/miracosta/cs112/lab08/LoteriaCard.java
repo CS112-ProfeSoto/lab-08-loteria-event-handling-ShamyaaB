@@ -1,4 +1,4 @@
-package cs112.lab08;
+package edu.miracosta.cs112.lab08;
 
 import javafx.scene.image.Image;
 import java.io.FileInputStream;
