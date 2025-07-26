@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.util.Random;
 
 /**
- * EChALE STEM Loteria game.
+ * EChALE STEM Loteria game
  * Displays a GUI with the title, image of the cards, a message label, and a draw card button.
  * When the button is clicked, it shows a random Loteria card and also updates the message.
  */
@@ -77,7 +77,7 @@ public class HelloApplication extends Application {
     }
 
     /**
-     * Starts the game
+     * Starts the game.
      */
     public static void main(String[] args)
     {
